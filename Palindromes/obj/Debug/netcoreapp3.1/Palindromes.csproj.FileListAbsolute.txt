@@ -1,0 +1,13 @@
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.exe
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.deps.json
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.runtimeconfig.json
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.dll
+C:\Users\jorda\source\repos\Palindromes\Palindromes\bin\Debug\netcoreapp3.1\Palindromes.pdb
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.AssemblyInfo.cs
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.dll
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.pdb
+C:\Users\jorda\source\repos\Palindromes\Palindromes\obj\Debug\netcoreapp3.1\Palindromes.genruntimeconfig.cache
